@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Hi there!!!!<br>🔭 My name is Vaibhav, and I have a strong passion for computer science and technology.<br>🌱 Currently, I am pursuing a degree in computer engineering, where I am dedicated to exploring the ever-evolving world of technology, coding, and problem-solving.<br>⚡ I’m excited to contribute to the advancements in the field and create innovative solutions that can make a meaningful impact.<br>
+🤝 Hi there!!!!<br>🔭 My name is Vaibhav, and I have a strong passion for computer science and technology.<br>🌱 Currently, I have completed my degree in computer engineering, where I have devoted my time to exploring the ever-evolving world of technology, coding, and problem-solving.<br>⚡ I’m excited to contribute to the advancements in the field and create innovative solutions that can make a meaningful impact.<br>
 
 
 ## 🌐 Socials:
